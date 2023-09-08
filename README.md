@@ -16,4 +16,4 @@ Rostock), in collaboration with [Dr. Jill-Jênn Vie](https://jjv.ie/), in the So
 
 Please feel free to ask questions on the contact form of our [project website](https://recess-eu-project.github.io) or at ``recess-project@proton.me``.
 
-Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or HORIZON 2020 funding programme. Neither the European Union nor the granting authority can be held responsible for them.
+*Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or HORIZON 2020 funding programme. Neither the European Union nor the granting authority can be held responsible for them.*
