@@ -5,9 +5,7 @@ These issues can be mitigated by drug repurposing, where chemical compounds are 
 In prior works, this approach has been implemented through collaborative filtering. This semi-supervised learning framework leverages known drug-disease matchings 
 in order to recommend new ones.
 
-This repository is a part of the Marie Skłodowska-Curie Postdoctoral Fellowship-funded two-year-long RECeSS project (#101102016), and hosts the code for the open-source Python package **stanscofi**, for the development of collaborative 
-filtering-based drug repurposing algorithms, along with notebooks and code files which helped to build novel drug repurposing datasets. In the short term, the RECeSS project 
-would yield the first method that fully integrates biological interpretation and risk 
+This repository is a part of the Marie Skłodowska-Curie Postdoctoral Fellowship-funded two-year-long RECeSS project (#101102016), and hosts the code for all open-source Python packages produced during the project for the development of collaborative filtering-based drug repurposing algorithms, along with notebooks and code files which helped to build novel drug repurposing datasets. In the short term, the RECeSS project would yield the first method that fully integrates biological interpretation and risk 
 assessment to collaborative filtering-based repurposing. Long-term outcomes might help define sustainable and transparent drug development for rare diseases.
 
 Research leads will be investigated by the postdoctoral fellow [Dr. Clémence Réda](https://clreda.github.io/). The project is primarily supervised by 
